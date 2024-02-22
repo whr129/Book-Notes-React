@@ -11,7 +11,11 @@ Clone it to your laptop and then run the command below
 In server directory 
 
 <code> npm install express </code>
+
 <code> npm install axios </code>
+
 <code> npm install pg </code>
+
 <code> npm install cors </code>
+
 <code> npm install body-parser </code>
