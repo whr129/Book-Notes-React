@@ -4,4 +4,6 @@ To run this project
 
 Clone it to your laptop and then run the command below
 
-<code> npm install axios <code />
+<code> npm install axios </code>
+
+<code> npm install react-bootstrap bootstrap </code>
